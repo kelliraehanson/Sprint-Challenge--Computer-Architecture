@@ -43,5 +43,3 @@ extern void cpu_init(struct cpu *cpu);
 extern void cpu_run(struct cpu *cpu);
 
 #endif
-
-
